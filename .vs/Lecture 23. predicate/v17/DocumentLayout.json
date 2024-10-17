@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1356B1-75F3-4950-BDCE-60DBCAC8E45E}|LambdaDemoV2\\LambdaDemoV2.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 23. predicate, func, annonymous, lambda, events\\lecture 23. predicate\\lambdademov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1356B1-75F3-4950-BDCE-60DBCAC8E45E}|LambdaDemoV2\\LambdaDemoV2.csproj|solutionrelative:lambdademov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D641EF4-3ED7-445A-817F-85612D92A673}|LambdaExpessions\\LambdaExpessions.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 23. predicate, func, annonymous, lambda, events\\lecture 23. predicate\\lambdaexpessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D641EF4-3ED7-445A-817F-85612D92A673}|LambdaExpessions\\LambdaExpessions.csproj|solutionrelative:lambdaexpessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1380691-4891-4530-81CE-C7BEF23384C7}|Anonymous Methods\\Anonymous Methods.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 23. predicate, func, annonymous, lambda, events\\lecture 23. predicate\\anonymous methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1380691-4891-4530-81CE-C7BEF23384C7}|Anonymous Methods\\Anonymous Methods.csproj|solutionrelative:anonymous methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE384A6-3A4B-411A-816E-DD1C51394FD7}|FuncDemo\\FuncDemo.csproj|D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\funcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE384A6-3A4B-411A-816E-DD1C51394FD7}|FuncDemo\\FuncDemo.csproj|solutionrelative:funcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C55CF-80D5-43CF-8D5C-BCE83855E959}|Lecture 23. predicate\\Lecture 23. predicate.csproj|D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\lecture 23. predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7C55CF-80D5-43CF-8D5C-BCE83855E959}|Lecture 23. predicate\\Lecture 23. predicate.csproj|solutionrelative:lecture 23. predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\LambdaDemoV2\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaDemoV2\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\LambdaDemoV2\\Program.cs",
+              "RelativeToolTip": "LambdaDemoV2\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:46:57.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\LambdaExpessions\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpessions\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\LambdaExpessions\\Program.cs",
+              "RelativeToolTip": "LambdaExpessions\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:30:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\Anonymous Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Anonymous Methods\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\Anonymous Methods\\Program.cs",
+              "RelativeToolTip": "Anonymous Methods\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:55:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\FuncDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FuncDemo\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\FuncDemo\\Program.cs",
+              "RelativeToolTip": "FuncDemo\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:29:54.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\Lecture 23. predicate\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture 23. predicate\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\\Lecture 23. predicate\\Lecture 23. predicate\\Program.cs",
+              "RelativeToolTip": "Lecture 23. predicate\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:09:42.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

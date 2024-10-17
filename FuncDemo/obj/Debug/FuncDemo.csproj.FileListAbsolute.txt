@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\bin\Debug\FuncDemo.exe.config
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\bin\Debug\FuncDemo.exe
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\bin\Debug\FuncDemo.pdb
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\obj\Debug\FuncDemo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\obj\Debug\FuncDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\obj\Debug\FuncDemo.exe
+C:\Users\admin\source\repos\Lecture 23. predicate\FuncDemo\obj\Debug\FuncDemo.pdb

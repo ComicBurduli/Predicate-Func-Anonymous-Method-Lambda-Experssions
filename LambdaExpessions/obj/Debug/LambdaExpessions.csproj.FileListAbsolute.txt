@@ -1,0 +1,7 @@
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\bin\Debug\LambdaExpessions.exe.config
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\bin\Debug\LambdaExpessions.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\bin\Debug\LambdaExpessions.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\obj\Debug\LambdaExpessions.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\obj\Debug\LambdaExpessions.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\obj\Debug\LambdaExpessions.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\LambdaExpessions\obj\Debug\LambdaExpessions.pdb

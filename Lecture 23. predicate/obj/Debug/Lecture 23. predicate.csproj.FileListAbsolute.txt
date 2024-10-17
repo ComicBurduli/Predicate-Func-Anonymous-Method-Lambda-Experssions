@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\bin\Debug\Lecture_23.predicate.exe.config
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\bin\Debug\Lecture_23.predicate.exe
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\bin\Debug\Lecture_23.predicate.pdb
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\obj\Debug\Lecture 23. predicate.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\obj\Debug\Lecture 23. predicate.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\obj\Debug\Lecture_23.predicate.exe
+C:\Users\admin\source\repos\Lecture 23. predicate\Lecture 23. predicate\obj\Debug\Lecture_23.predicate.pdb

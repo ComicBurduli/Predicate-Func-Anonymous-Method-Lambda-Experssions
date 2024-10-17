@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\bin\Debug\Anonymous Methods.exe.config
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\bin\Debug\Anonymous Methods.exe
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\bin\Debug\Anonymous Methods.pdb
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.exe
+C:\Users\admin\source\repos\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\bin\Debug\Anonymous Methods.exe.config
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\bin\Debug\Anonymous Methods.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\bin\Debug\Anonymous Methods.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 23. Predicate, Func, Annonymous, Lambda, Events\Lecture 23. predicate\Anonymous Methods\obj\Debug\Anonymous Methods.pdb
